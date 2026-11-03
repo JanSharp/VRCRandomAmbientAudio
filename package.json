@@ -1,0 +1,21 @@
+{
+  "name": "com.jansharp.random-ambient-audio",
+  "version": "1.0.0",
+  "description": "Play short ambient audio clips, like wind howling or wood creaking, at a position in world, picking the clip with weighted randomness and random delay, however every player will hear the same audio at the same time.",
+  "displayName": "Random Ambient Audio",
+  "unity": "2022.3",
+  "author": {
+    "name": "JanSharp",
+    "email": "steinmeister36@gmail.com",
+    "url": "https://jansharp.github.io"
+  },
+  "dependencies": {},
+  "license": "MIT",
+  "vpmDependencies": {
+    "com.vrchat.worlds": "^3.7.4",
+    "com.jansharp.common": ">=1.3.0",
+    "com.jansharp.lockstep": ">=1.1.0"
+  },
+  "url": "https://github.com/JanSharp/VRCRandomAmbientAudio/releases/download/v1.0.0/com.jansharp.random-ambient-audio.zip",
+  "changelogUrl": "https://github.com/JanSharp/VRCRandomAmbientAudio/blob/v1.0.0/CHANGELOG.md"
+}
