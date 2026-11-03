@@ -13,7 +13,7 @@ Then head to my [VCC Listing](https://jansharp.github.io/vrc/vcclisting.xhtml) a
 
 3 wind loop sounds, also royalty free a little edited. Interior, exterior and exterior-sheltered. Use with [Music Control](https://github.com/JanSharp/VRCMusicControl) for example. (When using Music Control for this, use Global Time Since World Start (synced or not) for the 2 exterior Music Descriptors for clean fade transitions).
 
-A few scripts, of course, also serving as a small example for a part of the [lockstep networking](https://github.com/JanSharp/VRCLockstep) API. Specifically a random number generator - part of the game state - and lockstep delayed events. The fact that this system plays random audio at random times, while every player hearing the same thing, is heavily reliant on the guarantees and framework lockstep provides, the scripts are tiny.
+A few scripts, of course, also serving as a small example for a part of the [lockstep networking](https://github.com/JanSharp/VRCLockstep) API. Specifically a random number generator - part of the game state - and lockstep delayed events. The fact that this system plays random audio at random times, while every player hears the same thing, is heavily reliant on the guarantees and framework lockstep provides, the scripts are tiny.
 
 # Contributing
 
